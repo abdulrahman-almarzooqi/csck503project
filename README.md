@@ -9,15 +9,14 @@ This repository contains `**ADD HERE WHEN COMPLETE**`
 `***DRAFT DIRECTORY***`
 ```bash
 C:.
-│   LICENSE
-│   README.md
-│   LAEI-DataProcessing.ipynb
-│   LAEI-DataTransform.ipynb
-│   requirements.txt
-│
+├───LICENSE
+├───README.md
+├───LAEI-DataProcessing.ipynb
+├───LAEI-DataTransform.ipynb
+├───requirements.txt
 └───datasets
-        data_transformed.csv
-        df_merged_RoadTrafficData_Emissions.csv
+    ├───data_transformed.csv
+    └───df_merged_RoadTrafficData_Emissions.csv
 ```
 
 ## Installation
